@@ -1,11 +1,12 @@
 {
-  "name": "myapp",
-  "description": "Boilerplate web app using node, express, mongodb, backbone, marionette.  Tooling includes Grunt, Bower, Browserify, etc.",
+  "name": "smash-data",
+  "description": "For keeping records of your smashing",
   "version": "0.0.1",
-  "author": "Jason Krol",
+  "author": "Nick Cunningham",
+  "contributors" : ["Jason Krol"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jkat98/benm.git"
+    "url": "https://github.com/nickolusroy/smash-data.git"
   },
   "engines": {
     "node": "0.10.x"
